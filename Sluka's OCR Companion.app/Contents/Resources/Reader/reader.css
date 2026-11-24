@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; font-family: system-ui, sans-serif; }
+main { width: min(680px, 100% - 2rem); margin: 2rem auto; }
+#status { font-size: .85rem; opacity: .72; }
+#text { font-size: 1.4rem; line-height: 1.8; overflow-wrap: anywhere; }
+
+#status::before { content: attr(aria-label); }
