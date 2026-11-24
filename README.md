@@ -1,0 +1,1 @@
+# Sluka-s-OCR-Companion
